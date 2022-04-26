@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/khorzhenwin](linkedin.com/in/khorzhenwin)
 
-- ⚡ Fun fact **i like memes**
+- ⚡ Fun fact - **idk what i was thinking when i set my repo descriptions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
