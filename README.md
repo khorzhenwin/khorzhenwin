@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khor Zhen Win</h1>
-<h3 align="center">Year 2 Data Analytics Student @ Asia Pacific University</h3>
+<h3 align="center">Final Year Data Analytics Student @ Asia Pacific University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khorzhenwin&label=Profile%20views&color=0e75b6&style=flat" alt="khorzhenwin" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/khorzhenwin](linkedin.com/in/khorzhenwin)
 
-- ⚡ Fun fact - **idk what i was thinking when i set my repo descriptions**
+- ⚡ Fun fact - **I'm looking to start a fresh grad position starting 1st October 2023!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
