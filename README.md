@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khor Zhen Win</h1>
-<h3 align="center">Final Year Data Analytics Student @ Asia Pacific University</h3>
+<h3 align="center">
+  Backend Engineer @ 
+  <a href="https://www.moneylion.com/" target="_blank">MoneyLion</a>
+</h3>
 
 [![](https://visitcount.itsvg.in/api?id=khorzhenwin&icon=9&color=11)](https://visitcount.itsvg.in)
 
@@ -7,7 +10,6 @@
 
 - 📄 Know about my experiences [linkedin.com/in/khorzhenwin](linkedin.com/in/khorzhenwin)
 
-- ⚡ Fun fact - **I'm looking to start a fresh grad position starting 1st October 2023!**
 
 
 # 💻 Tech Stack:
