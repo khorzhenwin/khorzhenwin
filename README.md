@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khor Zhen Win</h1>
 <h3 align="center">
-  Backend Engineer @ 
-  <a href="https://www.moneylion.com/" target="_blank">MoneyLion</a>
+  Backend Engineer
 </h3>
 
 [![](https://visitcount.itsvg.in/api?id=khorzhenwin&icon=9&color=11)](https://visitcount.itsvg.in)
